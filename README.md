@@ -1,4 +1,6 @@
 ## Scoot-Scoot
+
+## Overview
 Scoot Scoot an e-scooter rental app built on Solana. Scoot Scoot breaks down the barriers of traditional urban transportation, offering a simple, rewarding, and efficient way to navigate cities while contributing to a greener planet. With every ride, users can earn our Carbon Tokens that can be used for future rides or within our growing ecosystem of Solana products in Sierra Leone and beyond.
 
 ## Repositories
